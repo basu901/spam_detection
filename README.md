@@ -48,5 +48,5 @@ Free Mobile Phones!! Hurry!! Offer valid ONLY till the end of THIS month.SUBSCRI
 
 What I could gather is, ham messages containing any personal information in the form of digits is prone to be categorized as spam. Though these types of sms' form a very minute set in the pool of ham sms', it is not only erroneous but also dangerous. One way around might be check the remaining text for 'spam-like' behaviour. Also, it is increasingly difficult to identify spams which are written in colloquial language,further aggravated by the absence of numbers.A completely new range of studies is probably required in this context of 'colloquial' spam!
 
-Please do point out any mistakes reagrding this experiment and I hope you had fun with the experiment as much as I did! Open to queries and suggestions!
+Please do point out any mistakes regarding this experiment and I hope you had fun with the experiment as much as I did! Open to queries and suggestions!
 
